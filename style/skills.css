@@ -1,0 +1,111 @@
+/* skills */
+.contenedorS {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    
+
+}
+
+.contenedorS h4 {
+    color: rgb(254, 254, 254);
+    font-size: 20px;
+
+}
+
+.padreS {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-evenly;
+
+}
+
+.padreS img {
+    width: 110px;
+    height: 100px;
+
+}
+
+.imga:hover {
+    transform: scale(1.2);
+}
+
+.img1 {
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+}
+
+.img2 {
+
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+
+}
+
+.img3 {
+
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+}
+
+.img4 {
+
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+}
+
+
+.img5 {
+
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+}
+
+.img6 {
+
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+}
+
+
+.img7 {
+
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+}
+
+.img8 {
+
+    border: solid 1px white;
+    box-shadow: 0 0 10px 0 rgba(255, 0, 140, 0.975);
+    border-radius: 6px;
+    width: 110px;
+    height: 100px;
+}
+
+/* skills.html */
