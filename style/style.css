@@ -27,8 +27,6 @@ main h1 {
 .icons {
     border: solid 1px rgb(0, 0, 0);
     margin-top: 200px;
-
-
     border-radius: 6px;
     box-shadow: 0 0 30px 0 rgba(255, 0, 132, 0.975);
     border-radius: 6px;
@@ -47,7 +45,6 @@ main h1 {
 }
 
 .parrafos {
-
     max-width: 600px;
 
 }
